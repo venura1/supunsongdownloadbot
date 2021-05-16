@@ -1,8 +1,8 @@
 # UB Song Bot
 ##  🎹 A telegram bot that can download songs 🎸
-### Reach me on Telegram [🎹 Song Download Bot 🎸](http://t.me/UBSongBot)
+### Reach me on Telegram [🎹 Song Download Bot 🎸](http://t.me/songdownloadersl_bot_zone_bot)
 <p align="center">
-  <img src="https://telegra.ph/file/dcc1b80b52420cf624753.jpg">
+  <img src="https://telegra.ph/file/3d8882ce42f3a010986e6.jpg">
 </p>
 
 
@@ -30,4 +30,4 @@ The easiest way to deploy this Song Bot  <br><br>
 
 ### Developers:
 
-[@UvinduBro](https://t.me/Uvindu_Bro)
+[@supunma](https://t.me/supunma)
