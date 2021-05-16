@@ -1,4 +1,4 @@
-# UB Song Bot
+# supun Song Bot
 ##  🎹 A telegram bot that can download songs 🎸
 ### Reach me on Telegram [🎹 Song Download Bot 🎸](http://t.me/songdownloadersl_bot_zone_bot)
 <p align="center">
