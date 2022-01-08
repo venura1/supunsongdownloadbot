@@ -1,5 +1,5 @@
 {
-    "name": "SC Song Bot",
+    "name": "MUSIC FANS SONG DOWNLOADER",
     "description": "A bot that can download songs.",
     "logo": "https://telegra.ph/file/290e565c53f0aac27f518.jpg",
     "keywords": [
@@ -10,7 +10,7 @@
     ],
     "website": "https://infinityje.com",
     "repository": "https://github.com/scprojectslk/JESongBot",
-    "success_url": "https://t.me/SCProjectsLK",
+    "success_url": "https://t.me/dexter119",
     "env": {
         "BOT_TOKEN": {
             "description": "Your Telegram Bot Token from @BotFather",
