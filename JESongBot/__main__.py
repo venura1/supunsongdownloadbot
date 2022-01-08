@@ -8,7 +8,7 @@ from JESongBot import Jebot as app
 from JESongBot import LOGGER
 
 pm_start_text = """
-Hey [{}](tg://user?id={}), I'm powerful  Song Downloader Bot 🎵 By @dexter119 \n\nMade With ❤️ In Sri Lanka🇱🇰
+Hey [{}](tg://user?id={}), I'm powerful  Song Downloader Bot 🎵 By @dexter119 \n\nMade With ❤️ In Sri Lanka 🇱🇰
 
 😉 Just send me the song name you want to download.😋
       eg:```/song Childhood```
