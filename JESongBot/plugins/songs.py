@@ -1,5 +1,5 @@
-# Plugin by @Mr_Dark_Prince
-#Uvindu Bro <https://t.me/UvinduBro>
+# Plugin by @dexter119
+#Uvindu Bro <https://t.me/dexter119>
 
 import os
 import requests
@@ -44,7 +44,7 @@ def song(client, message):
 
     except Exception as e:
         m.edit(
-            "❌ Found Nothing.\n\nTry another keywork or maybe spell it properly."
+            "❌ Found Nothing.\n\nTry another keyword or maybe spell it properly."
         )
         print(str(e))
         return
