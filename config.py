@@ -1,4 +1,4 @@
-#Uvindu Bro <https://t.me/UvinduBro>
+#Dark Hero <https://t.me/dexter119>
 
 import os
 API_ID = int(os.getenv("API_ID"))
